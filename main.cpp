@@ -10,3 +10,4 @@ int main() {
     std::cout << "double   " << "\t"  <<" " << sizeof(double) <<  "\t" << __DBL_MIN__  << "\t" << "\t"<<"\t" << __DBL_MAX__ << "\n" ;
     return 0;
 }
+Дз га
